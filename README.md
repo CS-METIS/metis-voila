@@ -1,2 +1,1 @@
-# metis-voila
-METIS voila template
+Voilà metis template
